@@ -4,11 +4,11 @@ body {
 }
 
 h1{
-  margin: 15px;
+  margin: 20px;
   font-size: 50px;
 }
 p{
-    margin: 15px;
+    margin: 20px;
     font-size: 20px;
 }
 ul {
@@ -32,7 +32,7 @@ ul li a {
   display: block;
   color: rgb(255, 255, 255);
   text-align: center;
-  padding: 20px 208.18px;
+  padding: 20px 205px;
   text-decoration: none;
 }
 
